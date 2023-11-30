@@ -1,5 +1,5 @@
 ## App Status:
-
+[![CircleCI](https://circleci.com/gh/DMC288/UDA-Project4.svg?style=svg)](https://circleci.com/gh/DMC288/UDA-Project4)
 
 ## Project Overview
 
